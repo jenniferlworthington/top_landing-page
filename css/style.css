@@ -71,3 +71,7 @@ nav a {
   background-color: #888;
   color: #e5e7eb;
 }
+
+main {
+  padding: 0 12%;
+}
