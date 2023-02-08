@@ -72,12 +72,8 @@ nav a {
   color: #e5e7eb;
 }
 
-main {
-  padding: 0 12%;
-}
-
 .info {
-  padding: 3% 0;
+  padding: 3% 12%;
   text-align: center;
 }
 
